@@ -5,14 +5,14 @@
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="jaeger.Html5Video"
-    version="1.2.2">
+    version="1.2.3">
 
   <name>Html5Video</name>
   <description>
         html5 video for android
   </description>
   <author>jaeger25</author>
-  <repo>https://github.com/jaeger25/Html5Video.git</repo>
+  <repo>https://github.com/budafly/Html5Video.git</repo>
   
   <js-module src="www/Html5Video.js" name="Html5Video">
     <clobbers target="plugins.html5Video" />
