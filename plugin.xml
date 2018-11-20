@@ -8,6 +8,9 @@
     version="1.2.2">
 
   <name>Html5Video</name>
+  <description>
+        html5 video for android
+  </description>
   <author>jaeger25</author>
   <repo>https://github.com/jaeger25/Html5Video.git</repo>
   
